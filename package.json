@@ -42,5 +42,6 @@
   , "jsbelt": "0.8.12"
   , "optionall": "0.1.5"
   , "request": "2.83.0"
+  , "moment": "*"
   }
 }
