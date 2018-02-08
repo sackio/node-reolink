@@ -1,0 +1,46 @@
+{
+  "name": "reolink",
+  "description": "unofficial reolink camera api",
+  "version": "0.0.1",
+  "homepage": "",
+  "author": {
+    "name": "Ben Sack",
+    "email": "bsack@pushbuild.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/sackio/node-reolink.git"
+  },
+  "bugs": {
+    "url": ""
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "/blob/master/LICENSE-MIT"
+    }
+  ],
+  "main": "lib/index",
+  "engines": {
+    "node": ">= 0.10.0"
+  },
+  "scripts": {
+
+  },
+  "devDependencies": {
+    "async": "*",
+    "grunt": "^0.4.5",
+    "grunt-contrib-jshint": "~0.6.4",
+    "grunt-contrib-nodeunit": "~0.2.0",
+    "grunt-contrib-watch": "~0.5.3",
+    "nodeunit": "^0.11.2"
+  },
+  "keywords": []
+, "dependencies": {
+    "async": "2.6.0"
+  , "underscore": "1.8.3"
+  , "jsbelt": "0.8.12"
+  , "optionall": "0.1.5"
+  , "request": "2.83.0"
+  }
+}
